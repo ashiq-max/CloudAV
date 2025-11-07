@@ -1,9 +1,8 @@
 # ☁️ CloudAV – Hybrid Antivirus System
 
 **Author:** Mohan Sai  
-**Course:** BCA – 5th Semester  
-**Subject:** DCA3104 – Python Programming  
-**Session:** April 2025  
+**Course:** BCA    
+**Session:** 2025 
 **GitHub Repo:** [ashiq-max/CloudAV](https://github.com/ashiq-max/CloudAV)
 
 ---
