@@ -1,3 +1,25 @@
-".vs/" 
-".vs/" 
-".vs/" 
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore virtual environments
+venv/
+ENV/
+
+# Ignore VS project settings
+.vs/
+.vscode/
+
+# Ignore temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Ignore cache or compiled data
+*.db
+*.sqlite
+*.json
+
+# Ignore quarantine test files if desired
+scanner/Quarantine/
